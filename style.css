@@ -1,0 +1,33 @@
+body {
+  font-family:Playfair Display;
+  background: #f5f1ea;
+  color: #1E3A5F;
+  line-height: 1.6;max-width: 900px;
+margin: 0 auto;
+padding: 20px;
+}h1 {
+  color: #B8860B;
+  font-size: 42px;
+  text-align: center;
+}h2 {
+  color: #1E3A5F;
+}h3 {
+  color: #8B583C;
+  font-size: 23px;
+}p {
+  font-size: 17px;
+  color: #333333;
+  line-height: 1.7
+    margin-bottom: 20px;
+  
+}.fact {
+  background: #F5E6C8;
+  padding: 20px;
+  border-left: 5px solid #B8860B;
+  margin: 30px 0;
+}.fact h4 {
+  color: #B8860B;
+  font-size: 22px;
+  margin-top: 0;
+}
+
